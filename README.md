@@ -1,5 +1,7 @@
-# Still-Alive
+# Still Alive
 A console program that aims to re-create Portal's ending credits
+
+This branch has been tested under Arch linux.
 
 ```
               .,-:;//;:=,
