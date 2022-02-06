@@ -1,8 +1,6 @@
 # Still Alive
 A console program that aims to re-create Portal's ending credits
 
-This branch has been tested under Arch linux.
-
 ```
               .,-:;//;:=,
           . :H@@@MM@M#H/.,+%;,
@@ -25,3 +23,10 @@ This branch has been tested under Arch linux.
          ,:+$+-,/H#MMMMMMM@= =,
                =++%%%%+/:-.
 ```
+
+To compile run 
+```sh
+g++ Portal_Ending.cpp
+```
+
+This branch has been tested under Arch linux.
