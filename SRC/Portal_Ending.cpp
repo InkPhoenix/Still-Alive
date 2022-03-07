@@ -168,7 +168,7 @@ int main()
     gotoxy(3, 5); log(0, 315, false, " ");
 
 #ifdef _WIN32
-    PlaySound(TEXT("portal_sa.wav"), NULL, SND_ASYNC); //might go tits up depending on the IDE, try to add the "-lwinmm" option in the Linker settings and adding "SRC\\" to the path
+    PlaySound(TEXT("portal_sa.wav"), NULL, SND_ASYNC); //might go tits up depending on the IDE, try to add the "-lwinmm" option in the Linker settings or adding "SRC\\" to the file path
 #endif
 
 #ifdef linux
