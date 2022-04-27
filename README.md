@@ -27,7 +27,7 @@ A console program that aims to re-create Portal's ending credits
 To compile on linux run 
 
 ```sh
-g++ Portal_Ending.cpp SDL2/SDLInit.cpp SDL2/SDL2Music.cpp -I/usr/include/SDL2 -lSDL2main -lSDL2 -lSDL2_mixer
+g++ -o SA.out Still_Alive.cpp SDL2/SDLInit.cpp SDL2/SDL2Music.cpp -I/usr/include/SDL2 -lSDL2main -lSDL2 -lSDL2_mixer
 ```
 
 These packages are required:
