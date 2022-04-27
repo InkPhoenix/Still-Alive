@@ -4,7 +4,6 @@
 #include <string>
 
 #ifdef _WIN32
-    //#define _WIN32_WINNT 0x0500  //should've made this comment earlier cuz now i forgot what this is for lol
     #include <windows.h>
     #include "SDL2/SDL2Music.h"
 
